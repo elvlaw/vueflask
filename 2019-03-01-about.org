@@ -2,3 +2,12 @@
 #+OPTIONS: toc:nil
 #+STARTUP: showall indent
 #+STARTUP: hidestars
+* purpose
+Vue.js (commonly referred to as Vue; pronounced /vjuː/, like view) is an open-source JavaScript framework for building user interfaces and single-page applications.
+Flask is a micro web framework written in Python.
+it does not require particular tools or libraries (except for some basics standard libraries such as bottom.py).
+It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. However, Flask supports extensions that can add application features as if they were implemented in Flask itself. Extensions exist for object-relational mappers, form validation, upload handling, various open authentication technologies and several common framework related tools. Extensions are updated far more regularly than the core Flask program.
+Flask is commonly used with MongoDB, which gives it more control over databases and history.
+Applications that use the Flask framework include Pinterest, LinkedIn, and the community web page for Flask itself.
+
+this mini project was performed just for fun, and officially, for method seeking.
