@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+
     <h2>Essential Links</h2>
     <ul>
       <li>
@@ -84,11 +85,13 @@
 </template>
 
 <script>
+
 export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Hej! Jag heter Hugo Wong. Welcome to my blog! It is powered by Vue.js, a JavaScript framework for building user interfaces.'
+      // greeting: 'Hej! Jag heter Hugo Wong.'
     }
   }
 }

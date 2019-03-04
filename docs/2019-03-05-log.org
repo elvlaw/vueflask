@@ -1,0 +1,10 @@
+#+TITLE:log
+#+OPTIONS: toc:nil
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+
+* vue和flask都是从github上拖下来的，所以暂时还算不上开发，属于对模版的修改
+SCHEDULED: <2019-03-05 Tue>
+
+* 还是比较喜欢scss或stylus
+SCHEDULED: <2019-03-05 Tue>
