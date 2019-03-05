@@ -1,1 +1,10 @@
+#+title:vuejs + flask
+#+options: toc:nil
+#+startup: showall indent
+#+startup: hidestars
+
 We attampt to build a web app using Vue.js and Flask for full stack web development.
+
+Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications.
+
+Flask is a micro web framework written in Python.
